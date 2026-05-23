@@ -144,7 +144,7 @@ function Hero() {
           <dl className="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-3 font-mono text-sm">
             <Row k="Assignee" v="Muskan Lath" />
             <Row k="Status" v={<><span className="text-teal">●</span> In Progress</>} />
-            <Row k="Location" v="Mumbai, India" />
+            <Row k="Location" v="Bangalore, India" />
             <Row k="Phone" v="8400376127" />
             <Row k="Email" v={<a href="mailto:lathmuskan98@gmail.com" className="hover:text-teal">lathmuskan98@gmail.com</a>} />
             <Row k="LinkedIn" v={<a href="https://linkedin.com/in/muskan-lath" className="hover:text-teal" target="_blank" rel="noreferrer">muskan-lath</a>} />
