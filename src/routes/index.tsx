@@ -461,7 +461,7 @@ function Contact() {
           <div className="pl-4 space-y-2 text-foreground/90">
             <div className="flex items-center gap-3"><Mail className="w-4 h-4 text-purple" /><span className="text-muted-foreground w-20">Email</span><a href="mailto:lathmuskan98@gmail.com" className="hover:text-teal">lathmuskan98@gmail.com</a></div>
             <div className="flex items-center gap-3"><Phone className="w-4 h-4 text-purple" /><span className="text-muted-foreground w-20">Phone</span><span>+91 8400376127</span></div>
-            <div className="flex items-center gap-3"><Linkedin className="w-4 h-4 text-purple" /><span className="text-muted-foreground w-20">LinkedIn</span><a href="https://linkedin.com/in/muskan-lath" target="_blank" rel="noreferrer" className="hover:text-teal">linkedin.com/in/muskan-lath</a></div>
+            <div className="flex items-center gap-3"><Linkedin className="w-4 h-4 text-purple" /><span className="text-muted-foreground w-20">LinkedIn</span><a href="https://www.linkedin.com/in/muskanlath" target="_blank" rel="noreferrer" className="hover:text-teal">linkedin.com/in/muskanlath</a></div>
             <div className="flex items-center gap-3"><MapPin className="w-4 h-4 text-purple" /><span className="text-muted-foreground w-20">Location</span><span>Bangalore, India</span></div>
           </div>
 
