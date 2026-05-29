@@ -87,7 +87,7 @@ function Nav() {
     <header className="sticky top-0 z-50" style={{ backgroundColor: "#0e0e10" }}>
       <div className="mx-auto max-w-6xl px-4 py-4 flex items-center justify-between gap-4">
         <a href="#now" className="font-mono text-sm text-foreground">
-          <span className="text-teal">~/</span>muskan-lath
+          <span className="text-teal">~/</span>muskanlath
         </a>
         <nav className="surface rounded-full p-1 hidden md:flex items-center">
           {NAV.map((n) => (
@@ -147,7 +147,7 @@ function Hero() {
             <Row k="Location" v="Bangalore, India" />
             <Row k="Phone" v="84xxxxxxxx" />
             <Row k="Email" v={<a href="mailto:lathmuskan98@gmail.com" className="hover:text-teal">lathmuskan98@gmail.com</a>} />
-            <Row k="LinkedIn" v={<a href="https://linkedin.com/in/muskan-lath" className="hover:text-teal" target="_blank" rel="noreferrer">muskan-lath</a>} />
+            <Row k="LinkedIn" v={<a href="https://www.linkedin.com/in/muskanlath" className="hover:text-teal" target="_blank" rel="noreferrer">muskanlath</a>} />
           </dl>
 
           <div className="mt-8 pt-6 border-t border-hairline">
@@ -461,7 +461,7 @@ function Contact() {
           <div className="pl-4 space-y-2 text-foreground/90">
             <div className="flex items-center gap-3"><Mail className="w-4 h-4 text-purple" /><span className="text-muted-foreground w-20">Email</span><a href="mailto:lathmuskan98@gmail.com" className="hover:text-teal">lathmuskan98@gmail.com</a></div>
             <div className="flex items-center gap-3"><Phone className="w-4 h-4 text-purple" /><span className="text-muted-foreground w-20">Phone</span><span>+91 8400376127</span></div>
-            <div className="flex items-center gap-3"><Linkedin className="w-4 h-4 text-purple" /><span className="text-muted-foreground w-20">LinkedIn</span><a href="https://linkedin.com/in/muskan-lath" target="_blank" rel="noreferrer" className="hover:text-teal">linkedin.com/in/muskan-lath</a></div>
+            <div className="flex items-center gap-3"><Linkedin className="w-4 h-4 text-purple" /><span className="text-muted-foreground w-20">LinkedIn</span><a href="https://www.linkedin.com/in/muskanlath" target="_blank" rel="noreferrer" className="hover:text-teal">linkedin.com/in/muskanlath</a></div>
             <div className="flex items-center gap-3"><MapPin className="w-4 h-4 text-purple" /><span className="text-muted-foreground w-20">Location</span><span>Bangalore, India</span></div>
           </div>
 
