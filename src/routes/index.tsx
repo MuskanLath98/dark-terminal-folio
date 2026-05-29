@@ -147,7 +147,7 @@ function Hero() {
             <Row k="Location" v="Bangalore, India" />
             <Row k="Phone" v="84xxxxxxxx" />
             <Row k="Email" v={<a href="mailto:lathmuskan98@gmail.com" className="hover:text-teal">lathmuskan98@gmail.com</a>} />
-            <Row k="LinkedIn" v={<a href="https://linkedin.com/in/muskan-lath" className="hover:text-teal" target="_blank" rel="noreferrer">muskan-lath</a>} />
+            <Row k="LinkedIn" v={<a href="https://www.linkedin.com/in/muskanlath" className="hover:text-teal" target="_blank" rel="noreferrer">muskanlath</a>} />
           </dl>
 
           <div className="mt-8 pt-6 border-t border-hairline">
