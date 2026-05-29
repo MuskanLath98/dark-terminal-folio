@@ -87,7 +87,7 @@ function Nav() {
     <header className="sticky top-0 z-50" style={{ backgroundColor: "#0e0e10" }}>
       <div className="mx-auto max-w-6xl px-4 py-4 flex items-center justify-between gap-4">
         <a href="#now" className="font-mono text-sm text-foreground">
-          <span className="text-teal">~/</span>muskan-lath
+          <span className="text-teal">~/</span>muskanlath
         </a>
         <nav className="surface rounded-full p-1 hidden md:flex items-center">
           {NAV.map((n) => (
